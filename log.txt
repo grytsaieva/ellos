@@ -11,3 +11,6 @@
 130224 [main] INFO logger.Log4Test  - INFO: "Finish Test Suite execution"
 99978 [main] INFO logger.Log4Test  - INFO: "Finish Test Suite execution"
 52610 [main] INFO logger.Log4Test  - INFO: "Finish Test Suite execution"
+11446 [main] INFO logger.Log4Test  - INFO: "Finish Test Suite execution"
+10467 [main] INFO logger.Log4Test  - INFO: "Finish Test Suite execution"
+11733 [main] INFO logger.Log4Test  - INFO: "Finish Test Suite execution"

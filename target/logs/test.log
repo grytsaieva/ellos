@@ -18,3 +18,33 @@
 2015-10-31 12:29:53 WebElementsActions [INFO] - click ButtonPassField
 2015-10-31 12:29:53 WebElementsActions [INFO] - input - admin, to  - PassFieldInput
 2015-10-31 12:29:54 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-10-31 19:52:07 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-10-31 19:52:07 Page [INFO] - Start open page
+2015-10-31 19:52:14 Page [INFO] - Page open successful
+2015-10-31 19:52:14 WebElementsActions [INFO] - click ButtonLogo
+2015-10-31 19:52:16 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-10-31 19:52:18 Page [INFO] - SwitchTo Login Page was correct
+2015-10-31 19:52:18 WebElementsActions [INFO] - input - admin, to  - EmailField
+2015-10-31 19:52:18 WebElementsActions [INFO] - click ButtonPassField
+2015-10-31 19:52:18 WebElementsActions [INFO] - input - admin, to  - PassFieldInput
+2015-10-31 19:52:18 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-10-31 19:53:04 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-10-31 19:53:04 Page [INFO] - Start open page
+2015-10-31 19:53:09 Page [INFO] - Page open successful
+2015-10-31 19:53:09 WebElementsActions [INFO] - click ButtonLogo
+2015-10-31 19:53:11 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-10-31 19:53:14 Page [INFO] - SwitchTo Login Page was correct
+2015-10-31 19:53:15 WebElementsActions [INFO] - input - admin, to  - EmailField
+2015-10-31 19:53:15 WebElementsActions [INFO] - click ButtonPassField
+2015-10-31 19:53:15 WebElementsActions [INFO] - input - admin, to  - PassFieldInput
+2015-10-31 19:53:15 Log4Test [INFO] - INFO: "Finish Test Suite execution"
+2015-10-31 19:54:07 Log4Test [INFO] - INFO: "Start Test Suite execution"
+2015-10-31 19:54:07 Page [INFO] - Start open page
+2015-10-31 19:54:12 Page [INFO] - Page open successful
+2015-10-31 19:54:14 WebElementsActions [INFO] - click ButtonLogo
+2015-10-31 19:54:17 WebElementsActions [INFO] - click ButtonLoginPageLink
+2015-10-31 19:54:17 Page [INFO] - SwitchTo Login Page was correct
+2015-10-31 19:54:18 WebElementsActions [INFO] - input - admin, to  - EmailField
+2015-10-31 19:54:18 WebElementsActions [INFO] - click ButtonPassField
+2015-10-31 19:54:18 WebElementsActions [INFO] - input - admin, to  - PassFieldInput
+2015-10-31 19:54:19 Log4Test [INFO] - INFO: "Finish Test Suite execution"

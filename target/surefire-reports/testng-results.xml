@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[INFO: "Start Test Suite execution"]]>
+    </line>
+    <line>
+      <![CDATA[INFO: "Finish Test Suite execution"]]>
+    </line>
+  </reporter-output>
+  <suite name="Tests.LoginTest" duration-ms="13086" started-at="2015-10-31T17:54:06Z" finished-at="2015-10-31T17:54:19Z">
+    <groups>
+    </groups>
+    <test name="Command line test 73fd9aa0-a6a8-4e6f-88b7-18a8967adbf3" duration-ms="13086" started-at="2015-10-31T17:54:06Z" finished-at="2015-10-31T17:54:19Z">
+      <class name="Tests.LoginTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:Tests.LoginTest@2acf57e3]" name="setUpClass" is-config="true" duration-ms="1344" started-at="2015-10-31T19:54:06Z" finished-at="2015-10-31T19:54:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: "Start Test Suite execution"]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Tests.LoginTest@2acf57e3]" name="test1" duration-ms="11124" started-at="2015-10-31T19:54:07Z" finished-at="2015-10-31T19:54:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.LoginTest@2acf57e3]" name="tearDown" is-config="true" duration-ms="605" started-at="2015-10-31T19:54:18Z" finished-at="2015-10-31T19:54:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[INFO: "Finish Test Suite execution"]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.LoginTest -->
+    </test> <!-- Command line test 73fd9aa0-a6a8-4e6f-88b7-18a8967adbf3 -->
+  </suite> <!-- Tests.LoginTest -->
+</testng-results>
